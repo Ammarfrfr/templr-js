@@ -1,10 +1,10 @@
 # templr-js
 
-Save and reuse your project boilerplate templates from the CLI.
+templr-js is a local-first template scaffolding CLI. Save any project structure as a reusable template, spin it up instantly in any new folder, and manage all your templates from the terminal — no config, no cloud, just your machine
 
 ## Install
 ```bash
-sudo npm install -g templr-js
+npm install -g templr-js
 ```
 
 ## Usage
