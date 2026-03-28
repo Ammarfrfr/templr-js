@@ -1,6 +1,6 @@
 {
   "name": "templr-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Save and reuse your project boilerplate templates from the CLI",
   "main": "index.js",
   "type": "module",
