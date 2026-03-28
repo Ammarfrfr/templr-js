@@ -1,7 +1,7 @@
 {
   "name": "templr-js",
   "version": "1.0.1",
-  "description": "Save and reuse your project boilerplate templates from the CLI",
+  "description": "A local-first template scaffolding CLI — save, reuse and manage your project boilerplate",
   "main": "index.js",
   "type": "module",
   "bin": {

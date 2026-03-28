@@ -4,7 +4,7 @@ Save and reuse your project boilerplate templates from the CLI.
 
 ## Install
 ```bash
-npm install -g templr-js
+sudo npm install -g templr-js
 ```
 
 ## Usage
