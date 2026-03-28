@@ -14,5 +14,13 @@
     "scaffold"
   ],
   "author": "ammardev_",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/templr-js.git"
+  },
+  "homepage": "https://github.com/Ammarfrfr/templr-js#readme",
+  "bugs": {
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/templr-js/issues"
+  }
 }
